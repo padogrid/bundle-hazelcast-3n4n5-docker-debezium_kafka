@@ -11,6 +11,8 @@ This bundle integrates Hazelcast with Debezium for ingesting initial data and CD
 
 ## Installing Bundle
 
+✏️  *Please see [Installing Bundles](https://github.com/padogrid/padogrid/wiki/Installing-Bundles) for instructions on how to install bundles and their required software.*
+
 This bundle supports Hazelcast 3.12.x, 4.x, 5.x.
 
 ```console
